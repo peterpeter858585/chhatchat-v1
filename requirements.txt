@@ -1,1 +1,16 @@
-streamlit
+gradio
+transformers==4.40.0
+datasets
+pillow
+numpy
+torch
+asyncio
+torchvision
+accelerate
+beautifulsoup4>=4.9
+requests>=2.20
+onnxruntime
+sentencepiece
+soxr
+pydub
+edge-tts
